@@ -33,4 +33,4 @@ save_website(
 	)
 </pre>
 
-🌐 https://hablsearch.netfliy.app
+🌐 https://hablsearch.netlify.app/
