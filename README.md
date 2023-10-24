@@ -13,6 +13,8 @@ Run
   python copysite.py
 </pre>
 
+<p>the file will be created on the C:\ drive</p>
+
 <b>Add your site that you want to copy</b>
 
 <pre>
